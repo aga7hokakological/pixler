@@ -68,7 +68,7 @@ class MyWidgetState extends State<MyWidget> {
                     //  await saveImage(image);
               },
                   child: Text(
-                "Mint Now"
+                "Capture Now"
               )
               ),
             ],
